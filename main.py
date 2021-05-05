@@ -15,7 +15,7 @@ async def on_message(message):
   if message.content.startswith('Hello Sam'):
     await message.channel.send('Hello!')
   
-  if message.content.startswith('How are you?'):
+  if message.content.startswith('How are you Sam?'):
     await message.channel.send('I am fine wbu?')  
 keep_alive()    
 client.run(os.getenv('TOKEN'))
