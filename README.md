@@ -1,2 +1,2 @@
 # SamGilmanBot
-Sal Gilman Bot
+Sam Gilman Bot
